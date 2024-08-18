@@ -492,3 +492,5 @@ message(STATUS "WITH_DLT_LOG_LEVEL_APP_CONFIG = ${WITH_DLT_LOG_LEVEL_APP_CONFIG}
 message(STATUS "Change a value with: cmake -D<Variable>=<Value>")
 message(STATUS "-------------------------------------------------------------------------------")
 message(STATUS)
+
+add_subdirectory(app)
