@@ -494,3 +494,4 @@ message(STATUS "----------------------------------------------------------------
 message(STATUS)
 
 add_subdirectory(app)
+add_subdirectory(listener)
