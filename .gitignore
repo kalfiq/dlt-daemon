@@ -18,6 +18,7 @@ cmake-build-debug/
 .vscode/
 googletest/
 .cache
+compile_commands.json
 
 # exclude temporary files
 cscope.out
